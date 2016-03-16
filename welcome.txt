@@ -2,9 +2,3 @@ git add .
 git commit is for # commit file to server 
 
 * before using git commit user must write commit add and comment first .
-
-
-At this time i will add composer of laravel project into this directory .
-
-
-right or wrong ?
