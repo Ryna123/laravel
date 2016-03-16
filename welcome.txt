@@ -5,3 +5,6 @@ git commit is for # commit file to server
 
 
 At this time i will add composer of laravel project into this directory .
+
+
+right or wrong ?
