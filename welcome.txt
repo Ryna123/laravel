@@ -1,14 +1,3 @@
-welcome note 
+git commit is for # commit file to server 
 
-
-this file was edited
----------------------------------
-
-
-
-this is commit with commit add.
-
-
-
-
-change to other line
+* before using git commit user must write commit add and comment first .
